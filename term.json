@@ -1,9 +1,9 @@
 [
     {
         "id" : "xxynjs",
-        "name" : "1_1",
-        "stag" : "小111",
-        "grade" : "一111",
-        "semester" : "上111"
+        "name" : "小学一年级上",
+        "stag" : "小学",
+        "grade" : "一年级",
+        "semester" : "上学期"
     }
 ]

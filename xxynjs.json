@@ -1,7 +1,8 @@
 [
     {
         "id": "xxynjs_tbb_chinese",
-        "name": "小",
+        "name": "语文",
+        "published": "统教版",
         "resource":[
             "Primary/1/Chinese/tbb/book.pdf"
         ],
