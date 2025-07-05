@@ -5,5 +5,19 @@
         "stag" : "小学",
         "grade" : "一年级",
         "semester" : "上学期"
+    },
+    {
+        "id" : "xxenjs",
+        "name" : "小学二年级上",
+        "stag" : "小学",
+        "grade" : "二年级",
+        "semester" : "上学期"
+    },
+    {
+        "id" : "xxsnjs",
+        "name" : "小学三年级上",
+        "stag" : "小学",
+        "grade" : "三年级",
+        "semester" : "上学期"
     }
 ]

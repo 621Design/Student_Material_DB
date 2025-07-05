@@ -1,0 +1,11 @@
+[
+    {
+        "id": "xxenjs_rjb_math",
+        "name": "数学",
+        "published": "人教版",
+        "resource":[
+            "Primary/2/Math/rjb/book.pdf"
+        ],
+        "cover": "Primary/2/Math/rjb/cover.jpg"
+    }
+]

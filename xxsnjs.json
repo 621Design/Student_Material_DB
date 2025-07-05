@@ -1,0 +1,11 @@
+[
+    {
+        "id": "xxsnjs_bjb_english",
+        "name": "英语",
+        "published": "北京版",
+        "resource":[
+            "Primary/3/English/bjb/book.pdf"
+        ],
+        "cover": "Primary/3/English/bjb/cover.jpg"
+    }
+]
