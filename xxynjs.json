@@ -4,71 +4,71 @@
         "name": "语文",
         "published": "统教版",
         "resource":[
-            "Primary/1/Chinese/tbb/book.pdf"
+            "Primary/1/up/Chinese/tbb/book.pdf"
         ],
-        "cover": "Primary/1/Chinese/tbb/cover.jpg"
+        "cover": "Primary/1/up/Chinese/tbb/cover.jpg"
     },
     {
         "id": "xxynjs_rjb_math",
         "name": "数学",
         "published": "人教版",
         "resource":[
-            "Primary/1/Math/rjb/book.pdf"
+            "Primary/1/up/Math/rjb/book.pdf"
         ],
-        "cover": "Primary/1/Math/rjb/cover.jpg"
+        "cover": "Primary/1/up/Math/rjb/cover.jpg"
     },
     {
         "id": "xxynjs_xndxb_math",
         "name": "数学",
         "published": "西南大学版",
         "resource":[
-            "Primary/1/Math/xndxb/book.pdf"
+            "Primary/1/up/Math/xndxb/book.pdf"
         ],
-        "cover": "Primary/1/Math/xndxb/cover.jpg"
+        "cover": "Primary/1/up/Math/xndxb/cover.jpg"
     },
     {
         "id": "xxynjs_bjb_math",
         "name": "数学",
         "published": "北京版",
         "resource":[
-            "Primary/1/Math/bjb/book.pdf"
+            "Primary/1/up/Math/bjb/book.pdf"
         ],
-        "cover": "Primary/1/Math/bjb/cover.jpg"
+        "cover": "Primary/1/up/Math/bjb/cover.jpg"
     },
     {
         "id": "xxynjs_bsdb_math",
         "name": "数学",
         "published": "北师大版",
         "resource":[
-            "Primary/1/Math/bsdb/book.pdf"
+            "Primary/1/up/Math/bsdb/book.pdf"
         ],
-        "cover": "Primary/1/Math/bsdb/cover.jpg"
+        "cover": "Primary/1/up/Math/bsdb/cover.jpg"
     },
     {
         "id": "xxynjs_yjb_math",
         "name": "数学",
         "published": "翼教版",
         "resource":[
-            "Primary/1/Math/yjb/book.pdf"
+            "Primary/1/up/Math/yjb/book.pdf"
         ],
-        "cover": "Primary/1/Math/yjb/cover.jpg"
+        "cover": "Primary/1/up/Math/yjb/cover.jpg"
     },
     {
         "id": "xxynjs_sjb_math",
         "name": "数学",
         "published": "苏教版",
         "resource":[
-            "Primary/1/Math/sjb/book.pdf"
+            "Primary/1/up/Math/sjb/book.pdf"
         ],
-        "cover": "Primary/1/Math/sjb/cover.jpg"
+        "cover": "Primary/1/up/Math/sjb/cover.jpg"
     },
     {
         "id": "xxynjs_qdb_math",
         "name": "数学",
         "published": "青岛版",
         "resource":[
-            "Primary/1/Math/qdb/book.pdf"
+            "Primary/1/up/Math/qdb/book.pdf"
         ],
-        "cover": "Primary/1/Math/qdb/cover.jpg"
+        "cover": "Primary/1/up/Math/qdb/cover.jpg"
     }
 ]
