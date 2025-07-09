@@ -13,7 +13,9 @@
         "name": "数学",
         "published": "人教版",
         "resource":[
-            "Primary/1/up/Math/rjb/book.pdf"
+            "Primary/1/up/Math/rjb/book_1.pdf",
+            "Primary/1/up/Math/rjb/book_2.pdf",
+            "Primary/1/up/Math/rjb/book_3.pdf"
         ],
         "cover": "Primary/1/up/Math/rjb/cover.jpg"
     },
